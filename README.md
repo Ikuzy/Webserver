@@ -145,13 +145,6 @@ http://localhost:8080
 ### Testing Tools
 - [Siege HTTP load testing](https://github.com/JoeDog/siege)
 - [curl documentation](https://curl.se/docs/)
-### AI Usage
-AI (Claude) was used during this project for the following tasks:
-- Generating the structure and content of this README
-- Clarifying behavior differences between HTTP/1.0 and HTTP/1.1
-- Helping interpret ambiguous parts of the RFC specifications
-- Suggesting test cases for edge cases in request parsing
-All code was written, reviewed, and fully understood by the team. AI-generated suggestions were always verified and tested before use.
  
 ---
  
