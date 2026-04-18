@@ -152,9 +152,9 @@ http://localhost:8080
  
 | Login | GitHub |
 |-------|--------|
-| ikuzy | [@ikuzy](https://github.com/ikuzy) |
-| iliassovic2003 | [@iliassovic2003](https://github.com/iliassovic2003) |
-| Qattami | [@Qattami](https://github.com/Qattami) |
+| ozouine | [@ikuzy](https://github.com/ikuzy) |
+| izahr | [@iliassovic2003](https://github.com/iliassovic2003) |
+| iqattami | [@Qattami](https://github.com/Qattami) |
  
 ---
  
