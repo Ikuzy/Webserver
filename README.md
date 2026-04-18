@@ -121,22 +121,6 @@ http://localhost:8080
  
 ---
  
-## Project Structure
- 
-```
-webserv/
-├── config/          # Configuration files
-├── src/             # Source files (.cpp)
-├── includes/        # Header files (.hpp)
-├── www/             # Default static website
-├── uploads/         # Upload storage directory
-├── cgi-bin/         # CGI scripts
-├── Makefile
-└── README.md
-```
- 
----
- 
 ## Technical Highlights
  
 - **No blocking I/O** — every socket operation goes through `epoll`/`poll`/`select`
